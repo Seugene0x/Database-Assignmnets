@@ -7,3 +7,7 @@ FROM customers c
 JOIN invoices i 
 ON c.CustomerId = i.CustomerId
 ORDER BY c.LastName;
+
+
+
+--test
